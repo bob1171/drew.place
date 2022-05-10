@@ -1,0 +1,41 @@
+:root {
+    --primary-color: #635ef3;
+    --secondary-color: #536390;
+    --font-color: aliceblue;
+    --bg-color: #353535;
+    --heading-color: aliceblue;
+}
+
+[data-theme="dark"] {
+    --primary-color: #302AE6;
+    --secondary-color: #536390;
+    --font-color: #353535;
+    --bg-color: aliceblue;
+    --heading-color: #353535;
+}
+
+h1 {
+    color: var(--heading-color);
+}
+
+a {
+    color: var(--primary-color);
+}
+
+body{
+    background-color: var(--bg-color);
+    color: var(--font-color);
+    text-align: center;
+    vertical-align: middle;
+    top: 50px;
+    height:100vh;
+    margin:0;
+    display:flex; 
+    flex-direction:column; 
+}
+
+
+footer{
+  /*min-height:50px;*/
+  margin-top:auto;
+}
