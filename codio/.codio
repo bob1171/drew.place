@@ -1,0 +1,13 @@
+{
+// Configure your Run and Preview buttons here.
+
+// Run button configuration
+  "commands": {
+      "Start Browser":"falkon"
+  },
+
+// Preview button configuration
+  "preview": {
+        "Browser": "https://{{domain3050}}/"
+  }
+}
