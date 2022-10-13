@@ -6,7 +6,7 @@
 
 ### limitations:
  - the codio boxes suck so the browser might crash every once in a while
- - you can't play video for some reason
+ - youtube works but sound doesn't
  - the box turns off after a bit so you'll have to turn it back on
 
 ### steps:
@@ -22,7 +22,7 @@
   - hit reconnect
   - in the terminal, type `sudo apt-get install -y falkon`
   - next, enter `wget -O ~/workspace/.codio https://raw.githubusercontent.com/bob1171/drew.place/main/codio/.codio`
-  - You're done! 🎉🎉🎉
+  - you're done! 🎉🎉🎉
 
 ### how to use
   - click `start browser` at the top
