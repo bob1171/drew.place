@@ -1,1 +1,1 @@
-cat /dev/urandom
+sl
