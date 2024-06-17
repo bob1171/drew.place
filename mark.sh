@@ -9,3 +9,4 @@ elif [ $random -eq 2 ]; then
 elif [ $random -eq 3 ]; then
     feh --bg-scale ~/Downloads/men.jpg
 fi
+sl
